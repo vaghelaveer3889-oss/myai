@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Product Studio",
+  "description": "A powerful product photo editor that uses AI to remove backgrounds, clean up images, and apply professional styling through natural language instructions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
